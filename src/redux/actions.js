@@ -1,0 +1,9 @@
+export const INCREMENT_ACTION_TYPE = 'counter/incremented';
+export const DECREMENT_ACTION_TYPE = 'counter/decremented';
+export const ADD_TO_BASKET = 'basket/add/product';
+export const DELETE_FROM_BASKET = 'basket/delete/product';
+export const ADD_TO_LIKED = 'likedItems/add/product';
+export const DELETE_FROM_LIKED = 'likedItems/delete/product';
+export const MODAL_WINDOW_SHOW_TRUE = 'show/true';
+export const MODAL_WINDOW_SHOW_FALSE = 'show/false';
+export const GET_PRODUCTS_FROM_JSON = 'products';

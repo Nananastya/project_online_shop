@@ -1,0 +1,89 @@
+{
+    "products":
+    [
+        {
+            "name": "apple",
+            "price": 100,
+            "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F39%2F2012%2F06%2F20222932%2Frome_3.jpg",
+            "articul": 15339,
+            "color": "light-red"
+        },
+        {
+            "name": "pepper",
+            "price": 150,
+            "url": "https://i5.walmartimages.com/asr/4afb6fc7-4b33-4dc9-b938-035666ab2fe6.dca886c2d62ffc4a948e28a2d0039ea2.jpeg",
+            "articul": 17431,
+            "color": "yellow"
+        },
+        {
+            "name": "tomato",
+            "price": 90,
+            "url": "https://media.istockphoto.com/id/466175630/photo/tomato-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=ELzCVzaiRMgiO7A5zQLkuws0N_lvPxrgJWPn7C7BXz0=",
+            "articul": 16864,
+            "color": "red"
+        },
+        {
+            "name": "melon",
+            "price": 180,
+            "url": "https://img.freepik.com/premium-photo/melon-fruit-isolated-white_26628-469.jpg",
+            "articul": 19893,
+            "color": "light-yellow"
+        },
+        {
+            "name": "ube",
+            "price": 240,
+            "url": "https://cdn.shopify.com/s/files/1/0069/2201/0735/products/ube-1kg-fruits-vegetables-fresh-produce-228228_800x.jpg?v=1613208728",
+            "articul": 45879,
+            "color": "violet"
+        },
+        {
+            "name": "papaya",
+            "price": 230,
+            "url": "https://cdn.shopify.com/s/files/1/0294/1134/4521/products/papaya-juice-powder-organic-fruit-powders-z-natural-foods-5-lbs-747417.jpg?v=1669783317",
+            "articul": 45487,
+            "color": "orange"
+        },
+        {
+            "name": "daikon",
+            "price": 100,
+            "url": "https://sb-assets.sgp1.cdn.digitaloceanspaces.com/product/main_image/40351/4f0b4f0f-2fa9-4a5e-bf22-8d35604c51d6.png",
+            "articul": 25823,
+            "color": "white"
+        },
+        {
+            "name": "mangusteen",
+            "price": 210,
+            "url": "https://arbuz.kz/image/s3/arbuz-kz-products/270171-mangustin_kg.jpg?w=1100&h=1100&_c=1674724640",
+            "articul": 23569,
+            "color": "white"
+        },
+        {
+            "name": "rambutan",
+            "price": 220,
+            "url": "https://yesfrukt.com/storage/source/3d6fc2b8d0fc3adbbff1ecdebfdaa8f0/product/1/iJpZCUPAOUz2umDXMApd1HLHWjkuSucP.jpg",
+            "articul": 24980,
+            "color": "light-pink"
+        },
+        {
+            "name": "durian",
+            "price": 190,
+            "url": "https://quillandpad.com/wp-content/uploads/2023/02/durian-fruit.jpg",
+            "articul": 45782,
+            "color": "light-yellow"
+        },
+        {
+            "name": "lychee",
+            "price": 210,
+            "url": "https://fruit-time.ua/images/cache/products/ce/lici-imp-500x500.jpeg",
+            "articul": 54996,
+            "color": "white"
+        },
+        {
+            "name": "passion fruit",
+            "price": 205,
+            "url": "https://nebanan.com.ua/wp-content/uploads/2019/11/100026650852b0.jpg",
+            "articul": 34579,
+            "color": "dark-yellow"
+        }
+    ]
+}
