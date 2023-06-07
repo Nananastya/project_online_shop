@@ -33,7 +33,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://nananastya.github.io/project_online_shop/",
+  "homepage": "https://nananastya.github.io/project_online_shop",
   "eslintConfig": {
     "extends": [
       "react-app",
